@@ -11,6 +11,7 @@
 		BB6DC82A2A25D7ED009D30CA /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6DC8292A25D7ED009D30CA /* HomeView.swift */; };
 		BB6DC82C2A25D7F0009D30CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB6DC82B2A25D7F0009D30CA /* Assets.xcassets */; };
 		BB6DC82F2A25D7F0009D30CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB6DC82E2A25D7F0009D30CA /* Preview Assets.xcassets */; };
+		BB6DC8372A25E254009D30CA /* AddNoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6DC8362A25E254009D30CA /* AddNoteView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		BB6DC82B2A25D7F0009D30CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB6DC82E2A25D7F0009D30CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BB6DC8352A25DFA0009D30CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		BB6DC8362A25E254009D30CA /* AddNoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNoteView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				BB6DC8352A25DFA0009D30CA /* Info.plist */,
 				BB6DC8272A25D7ED009D30CA /* NotesAppApp.swift */,
 				BB6DC8292A25D7ED009D30CA /* HomeView.swift */,
+				BB6DC8362A25E254009D30CA /* AddNoteView.swift */,
 				BB6DC82B2A25D7F0009D30CA /* Assets.xcassets */,
 				BB6DC82D2A25D7F0009D30CA /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB6DC8372A25E254009D30CA /* AddNoteView.swift in Sources */,
 				BB6DC82A2A25D7ED009D30CA /* HomeView.swift in Sources */,
 				BB6DC8282A25D7ED009D30CA /* NotesAppApp.swift in Sources */,
 			);
